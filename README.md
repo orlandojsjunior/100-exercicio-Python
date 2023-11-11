@@ -1,2 +1,2 @@
 # teste
-teste de git
+teste do git
