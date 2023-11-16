@@ -1,3 +1,3 @@
-# teste
-teste do git
-esta dando erro ao enviar arquivos pelo git 
+Repositorio para testes de versionamento de codigos
+
+Praticando no Git e GitHub
