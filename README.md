@@ -1,8 +1,4 @@
-Repositorio para testes e praticas de versionamento de codigos
+Repositorio com os 100 exercicios e desafios do Curso em Video - Gustavo Guanabara
 
-Praticando no Git e GitHub
 
-Principais comandos do GIT
-
-http://comandosgit.github.io/
 
